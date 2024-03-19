@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C90B9857-40D6-4AF1-9A16-5E5E1F8EAEC6"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C3C46686-65EB-4E29-B164-3DC2801A178A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mobile_Swift_01-1/Mobile_Swift_01-1/Model/ModelData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "AddProducts()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EFFC7646-8777-4C0C-BE62-A3A6CDFFAB51"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mobile_Swift_01-1/Mobile_Swift_01-1/Model/ModelData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "AddProducts()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5420FB52-F761-4391-9774-0CB18C05B81F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mobile_Swift_01-1/Mobile_Swift_01-1/View/ProductList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "5420FB52-F761-4391-9774-0CB18C05B81F - 9479fd9a709dda19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftUI.GeometryProxy) -&gt; SwiftUI.List&lt;Swift.Never, &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt; in Mobile_Swift_01_1.ProductList.body.getter : some"
+                  moduleName = "Mobile_Swift_01-1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/usup/Desktop/swift/Mobile_Swift_01-1/src/Mobile_Swift_01-1/Mobile_Swift_01-1/View/ProductList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "936">
+               </Location>
+               <Location
+                  uuid = "5420FB52-F761-4391-9774-0CB18C05B81F - 4334e2edcdde4592"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0 in closure #1 (SwiftUI.GeometryProxy) -&gt; SwiftUI.List&lt;Swift.Never, &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt; in Mobile_Swift_01_1.ProductList.body.getter : some"
+                  moduleName = "Mobile_Swift_01-1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/usup/Desktop/swift/Mobile_Swift_01-1/src/Mobile_Swift_01-1/Mobile_Swift_01-1/View/ProductList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "5420FB52-F761-4391-9774-0CB18C05B81F - 9479fd9a709dda19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftUI.GeometryProxy) -&gt; SwiftUI.List&lt;Swift.Never, &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt; in Mobile_Swift_01_1.ProductList.body.getter : some"
+                  moduleName = "Mobile_Swift_01-1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/usup/Desktop/swift/Mobile_Swift_01-1/src/Mobile_Swift_01-1/Mobile_Swift_01-1/View/ProductList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "928">
+               </Location>
+               <Location
+                  uuid = "5420FB52-F761-4391-9774-0CB18C05B81F - 3cf19184eec89473"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftUI.GeometryProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0 in Mobile_Swift_01_1.ProductList.body.getter : some"
+                  moduleName = "Mobile_Swift_01-1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/usup/Desktop/swift/Mobile_Swift_01-1/src/Mobile_Swift_01-1/Mobile_Swift_01-1/View/ProductList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "1112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "60E9FE20-D902-4D58-A2A7-EE737F71A50A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mobile_Swift_01-1/Mobile_Swift_01-1/View/ProductList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "60E9FE20-D902-4D58-A2A7-EE737F71A50A - 3cf19184eec89452"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftUI.GeometryProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0 in Mobile_Swift_01_1.ProductList.body.getter : some"
+                  moduleName = "Mobile_Swift_01-1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/usup/Desktop/swift/Mobile_Swift_01-1/src/Mobile_Swift_01-1/Mobile_Swift_01-1/View/ProductList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "1156">
+               </Location>
+               <Location
+                  uuid = "60E9FE20-D902-4D58-A2A7-EE737F71A50A - c794c25bc508e4c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0 in closure #1 (SwiftUI.GeometryProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0 in Mobile_Swift_01_1.ProductList.body.getter : some"
+                  moduleName = "Mobile_Swift_01-1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/usup/Desktop/swift/Mobile_Swift_01-1/src/Mobile_Swift_01-1/Mobile_Swift_01-1/View/ProductList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "60E9FE20-D902-4D58-A2A7-EE737F71A50A - 3cf19184eec89452"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftUI.GeometryProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0 in Mobile_Swift_01_1.ProductList.body.getter : some"
+                  moduleName = "Mobile_Swift_01-1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/usup/Desktop/swift/Mobile_Swift_01-1/src/Mobile_Swift_01-1/Mobile_Swift_01-1/View/ProductList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "1148">
+               </Location>
+               <Location
+                  uuid = "60E9FE20-D902-4D58-A2A7-EE737F71A50A - 3cf19184eec89452"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftUI.GeometryProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0 in Mobile_Swift_01_1.ProductList.body.getter : some"
+                  moduleName = "Mobile_Swift_01-1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/usup/Desktop/swift/Mobile_Swift_01-1/src/Mobile_Swift_01-1/Mobile_Swift_01-1/View/ProductList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "1136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C31ECE5A-F791-42A3-BB63-A25F07665A66"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mobile_Swift_01-1/Mobile_Swift_01-1/View_model/DetailPhoto.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "DetailPhoto"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
