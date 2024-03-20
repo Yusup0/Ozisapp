@@ -18,6 +18,7 @@ struct ProductItem: View {
                 .font(.headline)
             Text(product.desc)
                 .font(.callout)
+                .multilineTextAlignment(.leading)
                 .frame(width: sizeItem)
                 .lineLimit(2)
         }

@@ -14,7 +14,7 @@ final class ProductBase: Object, Identifiable {
     @Persisted var fabricator: String = ""
     @Persisted var type: String = ""
     @Persisted var price: Double = 423.12
-    @Persisted var desc: String = "hjhbhj jhbh j jhbjhb vijiojioiojj jhvhj vjh jhvjv"
+    @Persisted var desc: String = "hjhbhj jhbhjjhbjhbvijioj ioiojj jhvhj vjh jhvjv"
     @Persisted var image: Data = Data()
     
     static let `default` = ProductBase()
