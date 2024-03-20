@@ -9,7 +9,7 @@ import Foundation
 import RealmSwift
 
 final class ProductBase: Object, Identifiable {
-    @Persisted(primaryKey: true) var id: Int
+    @Persisted(primaryKey: true) var id: Int = 2
     @Persisted var name: String = ""
     @Persisted var fabricator: String = ""
     @Persisted var type: String = ""

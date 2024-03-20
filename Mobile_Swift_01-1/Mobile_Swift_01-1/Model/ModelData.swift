@@ -16,7 +16,6 @@ class ModelData {
     }
     
     func AddProducts() async throws  {
-        var r = DetailPhoto(id: 1)
         guard let url = URL(string: "https://ozisapp.ru/get_products") else { fatalError("Missing URL") }
         let products =  try await AF.request(url).serializingDecodable([Product].self).value
         let bd = RealmManager.shared

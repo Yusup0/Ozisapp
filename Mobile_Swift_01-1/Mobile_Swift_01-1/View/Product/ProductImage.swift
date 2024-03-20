@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ProductImage: View {
+struct ProductImage: View, Hashable {
     var imageData: Data
     let sizeImage: CGFloat
     var body: some View {
